@@ -4,6 +4,17 @@
 
 [1]: https://www.npmjs.com/package/nodejs-logging?activeTab=versions
 
+## [8.0.0](https://www.github.com/googleapis/nodejs-logging/compare/v7.3.0...v8.0.0) (2020-03-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* proto annotations
+
+### Bug Fixes
+
+* proto annotations ([e31cc01](https://www.github.com/googleapis/nodejs-logging/commit/e31cc01d5be8a150b370cf5000eedb7cbf175d0c))
+
 ## [7.3.0](https://www.github.com/googleapis/nodejs-logging/compare/v7.2.3...v7.3.0) (2020-03-11)
 
 
